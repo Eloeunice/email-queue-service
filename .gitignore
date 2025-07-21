@@ -1,15 +1,21 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Nestjs specific
 /dist
 /node_modules
 /build
 /tmp
 =======
+=======
+>>>>>>> f0fab57be98d3c55de9c09e489722201c44a34e4
 # compiled output
 /dist
 /node_modules
 /build
+<<<<<<< HEAD
 >>>>>>> f0fab57 (config(nest): init a new nest project)
+=======
+>>>>>>> f0fab57be98d3c55de9c09e489722201c44a34e4
 
 # Logs
 logs
@@ -21,12 +27,15 @@ yarn-error.log*
 lerna-debug.log*
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # dotenv environment variable files
 .env
 .env.development
 .env.test
 .env.production
 =======
+=======
+>>>>>>> f0fab57be98d3c55de9c09e489722201c44a34e4
 # OS
 .DS_Store
 
@@ -56,13 +65,19 @@ lerna-debug.log*
 .env.test.local
 .env.production.local
 .env.local
+<<<<<<< HEAD
 >>>>>>> f0fab57 (config(nest): init a new nest project)
+=======
+>>>>>>> f0fab57be98d3c55de9c09e489722201c44a34e4
 
 # temp directory
 .temp
 .tmp
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> f0fab57be98d3c55de9c09e489722201c44a34e4
 
 # Runtime data
 pids
@@ -72,4 +87,7 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+<<<<<<< HEAD
 >>>>>>> f0fab57 (config(nest): init a new nest project)
+=======
+>>>>>>> f0fab57be98d3c55de9c09e489722201c44a34e4

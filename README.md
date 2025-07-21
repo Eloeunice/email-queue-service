@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 📧 Email Queue Service
 
 A robust and scalable email queueing and delivery service built with **NestJS**, **BullMQ**, **Redis**, and **Nodemailer**.
@@ -106,6 +107,8 @@ http://localhost:3000/admin/queues
 
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
 =======
+=======
+>>>>>>> f0fab57be98d3c55de9c09e489722201c44a34e4
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -204,4 +207,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+<<<<<<< HEAD
 >>>>>>> f0fab57 (config(nest): init a new nest project)
+=======
+>>>>>>> f0fab57be98d3c55de9c09e489722201c44a34e4
